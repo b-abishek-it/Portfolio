@@ -223,3 +223,18 @@ form button:hover {
   font-weight: bold;
   font-size: 16px;
 }
+.resume-link {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #333;
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
+}
+
+.resume-link:hover {
+  background-color: #333;
+}
+
